@@ -1,0 +1,4 @@
+interface:
+  display_name: "市调注意事项与质量审查"
+  short_description: "按阶段检查规则、过程证据、数据质量与提交材料，给出具体修复动作"
+  default_prompt: "请使用 $shidiao-quality-review，结合我的项目材料与当届市调规则，完成市调注意事项与质量审查。"

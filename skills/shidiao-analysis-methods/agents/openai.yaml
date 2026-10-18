@@ -1,0 +1,4 @@
+interface:
+  display_name: "市调分析方法与验证"
+  short_description: "按问题与数据条件选择统计及质性方法，验证结果并限定解释范围"
+  default_prompt: "请使用 $shidiao-analysis-methods，结合我的项目材料与当届市调规则，完成市调分析方法与验证。"

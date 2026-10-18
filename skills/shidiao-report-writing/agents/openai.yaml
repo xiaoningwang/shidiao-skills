@@ -1,0 +1,4 @@
+interface:
+  display_name: "市调报告撰写与答辩"
+  short_description: "围绕研究问题组织真实发现、结论与行动建议，并核对报告和答辩材料"
+  default_prompt: "请使用 $shidiao-report-writing，结合我的项目材料与当届市调规则，完成市调报告撰写与答辩。"

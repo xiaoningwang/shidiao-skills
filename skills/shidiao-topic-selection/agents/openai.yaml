@@ -1,0 +1,4 @@
+interface:
+  display_name: "市调选题与开题"
+  short_description: "结合书稿和当届要求，形成对象明确、证据可得、能够落地的选题方案"
+  default_prompt: "请使用 $shidiao-topic-selection，结合我的项目材料与当届市调规则，完成市调选题与开题。"
